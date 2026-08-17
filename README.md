@@ -1,8 +1,6 @@
-Claro! Vou fazer um **README.md bem profissional, bonito e completo**, mas ainda com cara de **projeto de aluna**, sem parecer um README exageradamente corporativo. Como você não falou qual filme escolheu, deixei os campos do filme fáceis de substituir.
 
-Você pode **copiar tudo abaixo diretamente para o `README.md`**:
 
-# 🎬 Projeto Filme — Página Web
+# 🎬 Projeto Filme — 
 
 > 💻 **Atividade Aula 02 — Desenvolvendo uma Página Web**
 > 📚 Desenvolvimento de Sistemas — SENAI
@@ -16,28 +14,11 @@ Este projeto foi desenvolvido como parte da **Atividade Aula 02 — Desenvolvend
 
 A proposta consiste na criação de uma página web dedicada a um filme escolhido pela aluna, apresentando suas principais informações de maneira **organizada, clara e visualmente agradável**.
 
-Para a construção da página foram utilizadas estruturas básicas do HTML, incluindo títulos, subtítulos, parágrafos, imagens e links.
+Para a construção da página foram utilizadas estruturas básicas do HTML, incluindo títulos, subtítulos, parágrafos, imagens e links no viscode.
 
 ---
 
-## 🎥 Filme escolhido
 
-### 🍿 `[NOME DO FILME]`
-
-**Ano de produção:** `[ANO]`
-**Diretor:** `[NOME DO DIRETOR]`
-**Duração:** `[DURAÇÃO]`
-**Classificação:** `[CLASSIFICAÇÃO]`
-**Gênero:** `[GÊNERO]`
-**País de origem:** `[PAÍS]`
-
----
-
-## 📖 Sinopse
-
-`[Escreva aqui uma breve sinopse do filme, apresentando a história principal, os personagens e o contexto da obra.]`
-
----
 
 ## 🎯 Objetivo do projeto
 
@@ -131,19 +112,6 @@ A organização da página foi pensada para deixar as informações **fáceis de
 
 ## 📁 Organização do projeto
 
-O projeto está organizado da seguinte maneira:
-
-```text
-📁 projeto-filme
-│
-├── 📄 index.html
-│
-├── 📁 img
-│   └── 🖼️ imagem-do-filme.jpg
-│
-└── 📄 README.md
-```
-
 ### 📄 `index.html`
 
 É o arquivo principal do projeto. Nele está localizada toda a estrutura HTML da página sobre o filme.
@@ -162,7 +130,7 @@ Arquivo responsável por apresentar informações sobre o projeto, sua finalidad
 
 Para conhecer mais sobre o filme, acesse:
 
-👉 **[Página com mais informações sobre o filme]([COLE-AQUI-O-LINK])**
+👉 <a href="https://pt.wikipedia.org/wiki/Five_Feet_Apart"> Página com mais informações sobre o filme</a>
 
 ---
 
@@ -173,23 +141,6 @@ Com a realização desta atividade, foi possível praticar e compreender melhor 
 Além de aprender a utilizar as principais tags solicitadas na atividade, o projeto também ajudou a desenvolver noções de **organização de arquivos, estruturação de conteúdo e apresentação de informações na web**.
 
 Esta atividade representa um dos primeiros passos na construção de projetos utilizando desenvolvimento web.
-
----
-
-## ✅ Checklist da atividade
-
-* [x] Criar o arquivo `index.html`
-* [x] Utilizar a tag `<title>`
-* [x] Utilizar a tag `<h1>`
-* [x] Adicionar uma imagem relacionada ao filme
-* [x] Utilizar tags `<h2>` para as informações solicitadas
-* [x] Utilizar a tag `<p>` para a sinopse
-* [x] Adicionar um link utilizando `<a>`
-* [x] Criar a pasta `img`
-* [x] Adicionar o `README.md`
-* [x] Organizar os arquivos do projeto
-* [ ] Verificar o funcionamento da página
-* [ ] Enviar o link do repositório no Google Sala de Aula
 
 ---
 
